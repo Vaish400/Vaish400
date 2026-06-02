@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Padgal</h1>
-<h3 align="center">Final Year B.Tech CSE Student | Full Stack Developer | Software Developer</h3>
+<h3 align="center">B.Tech CSE Student | Full Stack Developer | Software Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Engineer;Full+Stack+Developer;PHP+%7C+Angular+%7C+MySQL;Always+Learning+New+Technologies&center=true&width=500&height=50">
