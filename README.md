@@ -53,12 +53,7 @@
 - Contact Management
 - Analytics Dashboard
 
-### 🌾 SmartSheti – Smart Farming Platform
-- Crop Recommendation System
-- Weather Forecast Integration
-- Fertilizer Suggestions
-- Market Price Tracking
-- Farmer-Friendly Dashboard
+
 
 ### 🎓 Student Management System
 - Student Registration
@@ -66,11 +61,7 @@
 - Result Management
 - Teacher & Admin Modules
 
-### 📬 Gmail Clone Email Client
-- IMAP Integration
-- Inbox Management
-- Search & Filters
-- Attachment Handling
+
 
 
 ## 🏆 Achievements
